@@ -1,0 +1,14 @@
+{
+  "name": "schema-validation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript-json-schema": "^0.55.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.10",
+    "ajv": "^8.12.0"
+  }
+}
